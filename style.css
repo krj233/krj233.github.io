@@ -1,0 +1,62 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.Tabs{
+  display: inline;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+h1{
+  
+}
+
+nav{
+  background: grey;
+  height: 60px;
+  width: 100%;
+
+}
+.Logo{
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0px 100px;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+
+
+}
+
+nav ul li a{
+  color: white;
+}
+
+.Home p{
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.Shocks p{
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.Shocks h4{
+  font-size: 20px;
+}
+
+h2{
+  font-size: 28px;
+}
